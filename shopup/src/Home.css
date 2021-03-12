@@ -1,0 +1,36 @@
+.home_main {
+  margin: 0px 300px;
+  margin-top: 1.5rem;
+}
+
+.home {
+  display: grid;
+  place-items: center;
+  align-items: center;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.home_item {
+  border: 1px solid gray;
+  width: 100%;
+  height: 150px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  background-color: #ffffff !important;
+}
+.add_meet_btn {
+  margin-top: 1rem;
+  border: 1px solid #25aaf7;
+  border-radius: 4px;
+  width: 100%;
+  background-color: #25aaf7;
+  color: black;
+  padding: 10px;
+}
+
+.add_meet_btn:focus .add_meet_btn:active {
+  border: none;
+  outline: none;
+}

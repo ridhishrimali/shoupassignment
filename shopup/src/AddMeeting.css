@@ -1,0 +1,15 @@
+.addmeeting_main {
+  margin: 0px 300px;
+  margin-top: 2rem;
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 10px 0px;
+}
+
+.add_meet_heading {
+  text-align: center;
+}
+
+.add_meet_form {
+  margin: 0px 70px;
+}
